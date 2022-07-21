@@ -12,7 +12,6 @@ define gobuild
 		golang go build -o bin/main-$(GOOS)-$(GOARCH) src/main.go
 endef
 
-
 GO_SRC_FILES=$(shell find src/ -name '*.go')
 
 run:

@@ -35,4 +35,5 @@ update event from data
 * https://www.docker.com/blog/containerize-your-go-developer-environment-part-1/
 * https://levelup.gitconnected.com/setup-simple-go-development-environment-with-docker-b8b9c0d4e0a8
 * https://framagit.org/groolot/gpx2png = https://wiki.openstreetmap.org/wiki/Gpx2png
+* https://github.com/friek/gpx2pngservice
  
